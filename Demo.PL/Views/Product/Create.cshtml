@@ -1,0 +1,15 @@
+﻿@model ProductFormViewModel
+<h1>Create Product</h1>
+
+@* @section mainHeader {
+    Create Product
+} *@
+
+<form asp-controller="Product" asp-action="Create">
+   <partial name="PartialView/CreateEditProductPartial"/>
+    <button class="btn btn-outline-primary" type="submit">Add</button>
+</form>
+@section Scripts{
+<partial name="_ValidationScriptsPartial" />
+}
+

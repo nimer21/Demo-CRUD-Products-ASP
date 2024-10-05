@@ -1,0 +1,35 @@
+﻿@model ProductFormViewModel
+<h1>Create Product</h1>
+@* 
+@section mainHeader {
+    Edit Product
+}
+ *@
+<form asp-controller="Product" asp-action="Edit">
+    <partial name="PartialView/CreateEditProductPartial" />
+    @* <div class="form-group">
+        <label asp-for="Code" class="form-label"></label>
+        <input asp-for="Code" class="form-control" />
+        <span asp-validation-for="Code" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="Name" class="form-label"></label>
+        <input asp-for="Name" class="form-control" />
+        <span asp-validation-for="Name" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="Price" class="form-label"></label>
+        <input asp-for="Price" class="form-control" />
+        <span asp-validation-for="Price" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="CreatedDate" class="form-label"></label>
+        <input asp-for="CreatedDate" class="form-control" />
+        <span asp-validation-for="CreatedDate" class="text-danger"></span>
+    </div> *@
+    <button class="btn btn-outline-primary" type="submit">Update</button>
+</form>
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}
+

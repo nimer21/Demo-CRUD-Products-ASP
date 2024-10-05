@@ -1,0 +1,15 @@
+C:\Users\AlsayeN\source\repos\Demo\Demo.BLL\bin\Debug\net8.0\Demo.BLL.deps.json
+C:\Users\AlsayeN\source\repos\Demo\Demo.BLL\bin\Debug\net8.0\Demo.BLL.dll
+C:\Users\AlsayeN\source\repos\Demo\Demo.BLL\bin\Debug\net8.0\Demo.BLL.pdb
+C:\Users\AlsayeN\source\repos\Demo\Demo.BLL\bin\Debug\net8.0\Demo.DAL.dll
+C:\Users\AlsayeN\source\repos\Demo\Demo.BLL\bin\Debug\net8.0\Demo.DAL.pdb
+C:\Users\AlsayeN\source\repos\Demo\Demo.BLL\obj\Debug\net8.0\Demo.BLL.csproj.AssemblyReference.cache
+C:\Users\AlsayeN\source\repos\Demo\Demo.BLL\obj\Debug\net8.0\Demo.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AlsayeN\source\repos\Demo\Demo.BLL\obj\Debug\net8.0\Demo.BLL.AssemblyInfoInputs.cache
+C:\Users\AlsayeN\source\repos\Demo\Demo.BLL\obj\Debug\net8.0\Demo.BLL.AssemblyInfo.cs
+C:\Users\AlsayeN\source\repos\Demo\Demo.BLL\obj\Debug\net8.0\Demo.BLL.csproj.CoreCompileInputs.cache
+C:\Users\AlsayeN\source\repos\Demo\Demo.BLL\obj\Debug\net8.0\Demo.BLL.csproj.Up2Date
+C:\Users\AlsayeN\source\repos\Demo\Demo.BLL\obj\Debug\net8.0\Demo.BLL.dll
+C:\Users\AlsayeN\source\repos\Demo\Demo.BLL\obj\Debug\net8.0\refint\Demo.BLL.dll
+C:\Users\AlsayeN\source\repos\Demo\Demo.BLL\obj\Debug\net8.0\Demo.BLL.pdb
+C:\Users\AlsayeN\source\repos\Demo\Demo.BLL\obj\Debug\net8.0\ref\Demo.BLL.dll
